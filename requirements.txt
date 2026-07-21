@@ -1,1 +1,6 @@
-numpy  pandas  matplotlib  seaborn  scikit-learn  nltk  spacy  transformers  torch  finbert-pytorch 
+pandas>=2.0,<3.0
+numpy>=1.24,<3.0
+scikit-learn>=1.3,<2.0
+matplotlib>=3.7,<4.0
+vaderSentiment>=3.3.2,<4.0
+pytest>=8.0,<9.0

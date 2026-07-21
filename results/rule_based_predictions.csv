@@ -1,0 +1,25 @@
+date,text,label,prediction
+2026-01-05,Company earnings beat analyst expectations and revenue guidance was raised.,positive,positive
+2026-01-06,The bank reported a sharp increase in quarterly profit.,positive,positive
+2026-01-07,Shares climbed after management announced a new share-buyback programme.,positive,positive
+2026-01-08,The manufacturer secured a large multiyear contract.,positive,positive
+2026-01-09,Operating margins improved despite higher input costs.,positive,positive
+2026-01-10,The company expanded into two profitable international markets.,positive,positive
+2026-01-11,Cash flow remained strong and debt declined during the quarter.,positive,positive
+2026-01-12,The regulator approved the firm's new product.,positive,positive
+2026-01-13,The company maintained its full-year outlook.,neutral,neutral
+2026-01-14,The board scheduled its annual shareholder meeting for April.,neutral,neutral
+2026-01-15,The firm appointed a new chief operating officer.,neutral,neutral
+2026-01-16,Revenue was unchanged from the prior-year quarter.,neutral,neutral
+2026-01-17,The company filed its annual report with the regulator.,neutral,neutral
+2026-01-18,Management said it continued to review strategic alternatives.,neutral,neutral
+2026-01-19,The business completed a previously announced restructuring.,neutral,neutral
+2026-01-20,Trading volume was broadly in line with its monthly average.,neutral,neutral
+2026-01-21,The company missed earnings expectations and cut its outlook.,negative,negative
+2026-01-22,Shares fell after the firm disclosed a regulatory investigation.,negative,negative
+2026-01-23,Quarterly revenue declined as customer demand weakened.,negative,negative
+2026-01-24,The lender reported rising defaults and higher credit losses.,negative,negative
+2026-01-25,Management warned that inflation would pressure margins.,negative,negative
+2026-01-26,The company announced layoffs following a substantial operating loss.,negative,negative
+2026-01-27,A product recall is expected to reduce annual profit.,negative,neutral
+2026-01-28,The firm suspended its dividend to preserve cash.,negative,negative
